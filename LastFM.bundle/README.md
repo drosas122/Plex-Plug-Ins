@@ -1,2 +1,0 @@
-
-If the software submitted to this repository accesses or calls any software provided by Plex  a condition for receiving services from Plex in response to such accesses or calls, you agree to grant and do hereby grant to Plex and its affiliates worldwide a worldwide, nonexclusive, and royalty-free right and license to use (including testing, hosting and linking to), copy, publicly perform, publicly display, reproduce 
